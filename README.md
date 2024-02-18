@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryandsferrer&show_icons=true&theme=tokyonight)
 
-##TECNOLOGIAS QUE DOMINO
+TECNOLOGIAS QUE EU DOMINO
 
 <div style='display:flex' style='flex-direction: row' width='1000px' justify-content='space-around'>
 
