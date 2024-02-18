@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 
 <div display= 'flex' flex-direction= 'rows'>
   <img alt='javascript' src='https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png' width='80'>
+  <img alt='html' src='https://www.flaticon.com/br/icone-gratis/arquivo-html_8099498?related_id=8099498' width='80'>
 </div>
