@@ -2,19 +2,27 @@
 
 
 Here are some ideas to get you started:
-- 🌱 I am currently a student of systems analysis and development
-- 👯 I'm looking to collaborate on challenging projects
+- 🌱 Estou cursando o 3° semestre de análise e desenvolvimento de sistemas
+- 👯 Sempre busco projetos que possam desafiar o meu conhecimento na área de TI
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryandsferrer&show_icons=true&theme=tokyonight)
-
+![Ryandsferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryandsferrer&show_icons=true&theme=tokyonight)
+##
 TECNOLOGIAS QUE EU DOMINO
+<div style='display:inline_block'><br>
 
-<div style='display:flex' style='flex-direction: row' width='1000px' justify-content='space-around'>
+   <img align='center' alt='javascript' src='https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png' width='80'>
 
-   <img alt='javascript' src='https://cdn.icon-icons.com/icons2/1822/PNG/128/js_115529.png' width='80'>
+   <img align='center' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png' width='80'>
 
-   <img class='html' src='https://cdn.icon-icons.com/icons2/1822/PNG/128/css_115514.png' width='80'>
+   <img align='center' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png' width='80'>
+   <img align='right' alt='catdev' src='https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif' width='200'     height='200'>
+</div>
 
-   <img class='html' src='https://cdn.icon-icons.com/icons2/1822/PNG/128/html_115524.png' width='80'>
+##
+
+TECNOLOGIAS QUE ESTOU APRENDENDO
+<div style='display:inline_block'><br>
+
+   <img align='center' alt='javascript' src='https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png' width='80'>
    
 </div>
