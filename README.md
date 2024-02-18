@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 ##TECNOLOGIAS QUE DOMINO
 
 <div display= 'flex' flex-direction= 'rows'>
-  <img alt='javascript' src='https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png'>
+  <img alt='javascript' src='https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png' width='50'>
 </div>
