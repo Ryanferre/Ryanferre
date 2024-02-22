@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ![Ryandsferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryandsferrer&show_icons=true&theme=tokyonight)
 ##
-TECNOLOGIAS QUE EU DOMINO
+POSSUO DOMINO
 <div style='display:inline_block'><br>
 
    <img align='center' alt='javascript' src='https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png' width='80'>
@@ -19,8 +19,7 @@ TECNOLOGIAS QUE EU DOMINO
 </div>
 
 ##
-
-TECNOLOGIAS QUE ESTOU APRENDENDO
+ESTOU APRENDENDO
 <div style='display:inline_block'><br>
 
    <img align='center' alt='javascript' src='https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png' width='80'>
