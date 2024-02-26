@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ![Ryandsferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryandsferrer&show_icons=true&theme=tokyonight)
 ##
-POSSUO DOMINO
+POSSUO DOMÍNIO
 <div style='display:inline_block'><br>
 
    <img align='center' alt='javascript' src='https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png' width='80'>
