@@ -14,7 +14,7 @@ POSSUO DOMÍNIO EM:
 
    <img align='center' src='https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000' width='80'>
 
-   <img align='center' src='https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000' width='80'>
+   <img align='center' src='https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000' width='80'>
 
    <img align='center' src='https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000' width='80'>
    
