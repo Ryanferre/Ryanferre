@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 POSSUO DOMÍNIO EM:
 <div style='display:inline_block'><br>
 
-   <img align='center' alt='javascript' src='https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png' width='80'>
+   <img align='center' alt='javascript' src='https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000' width='80'>
 
    <img align='center' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png' width='80'>
 
