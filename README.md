@@ -12,7 +12,7 @@ POSSUO DOMÍNIO EM:
 
    <img align='center' alt='javascript' src='https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000' width='80'>
 
-   <img align='center' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png' width='80'>
+   <img align='center' src='https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000' width='80'>
 
    <img align='center' src='https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000' width='80'>
 
