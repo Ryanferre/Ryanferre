@@ -15,6 +15,9 @@ POSSUO DOMÍNIO EM:
    <img align='center' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png' width='80'>
 
    <img align='center' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png' width='80'>
+
+   <img align='center' src='https://www.flaticon.com/br/icone-gratis/php_8945754?term=php&page=6&position=12&origin=search&related_id=8945754' width='80'>
+   
    <img align='right' alt='catdev' src='https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif' width='200'     height='200'>
 </div>
 
