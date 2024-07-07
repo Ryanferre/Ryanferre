@@ -25,6 +25,6 @@ POSSUO DOMÍNIO EM:
 ESTOU APRENDENDO:
 <div style='display:inline_block'><br>
 
-   <img align='center' alt='javascript' src='[https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png](https://icons8.com.br/icon/t4YbEbA834uH/react-native)' width='80'>
+   <img align='center' alt='javascript' src='https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000' width='80'>
    
 </div>
