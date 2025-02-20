@@ -19,6 +19,8 @@ POSSUO DOMÍNIO EM:
    <img align='center' src='https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000' width='80'>
    
    <img align='right' alt='catdev' src='https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif' width='200'     height='200'>
+
+   <img align='center' alt='javascript' src='https://img.icons8.com/nolan/64/tailwind_css.png' width='80'>
 </div>
 
 ##
