@@ -23,6 +23,8 @@ POSSUO DOMÍNIO EM:
    <img align='center' alt='javascript' src='https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000' width='80'>
 
    <img align='center' alt='javascript' src='https://img.icons8.com/nolan/64/tailwind_css.png' width='80'>
+
+   <img align='center' alt='javascript' src='https://www.flaticon.com/free-icon/typescript_18508610?term=typescript&page=1&position=9&origin=tag&related_id=18508610' width='80'>
 </div>
 
 ##
