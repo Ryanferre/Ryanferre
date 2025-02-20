@@ -24,7 +24,7 @@ POSSUO DOMÍNIO EM:
 
    <img align='center' alt='javascript' src='https://img.icons8.com/nolan/64/tailwind_css.png' width='80'>
 
-   <img align='center' alt='javascript' src='https://github.com/Ryanferre/DogsImg/blob/main/typescript.png?raw=true' width='80'>
+   <img align='center' alt='javascript' src='https://github.com/Ryanferre/DogsImg/blob/main/typescript(1).png?raw=true' width='80'>
 </div>
 
 ##
