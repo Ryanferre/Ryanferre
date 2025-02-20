@@ -2,8 +2,9 @@
 
 
 Here are some ideas to get you started:
-- 🌱 Estou cursando o 3° semestre de análise e desenvolvimento de sistemas
+- 🌱 Estou cursando no ultimo semestre de análise e desenvolvimento de sistemas
 - 👯 Sempre busco projetos que possam desafiar o meu conhecimento na área de TI
+- Gosto de aprender de tudo um pouco. Acredito que conhecimento sempre é bom nao importa de onde venha
 
 ![Ryandsferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryandsferrer&show_icons=true&theme=tokyonight)
 ##
