@@ -20,7 +20,7 @@ POSSUO DOMÍNIO EM:
 
    <img align='center' src='https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000' width='80'/>
    
-   <img align='right' alt='catdev' src='https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif' width='200' height='200'/>
+   <img align='right' alt='connect' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xyM3V2NnI2dW1wbDByMWlramp1cWdkaG90c2Z0dDE2cnpyczA1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQDdDwdZpfYRn1MsJy/giphy.gif' width='200' height='200'/>
 
    <img align='center' alt='javascript' src='https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000' width='80'/>
 
