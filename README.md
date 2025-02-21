@@ -12,7 +12,7 @@ POSSUO DOMÍNIO EM:
 <div style='display:inline_block'>
    <br>
 
-   <ul style='dispaly: flex; flex-wrap: wrap'>
+   <ul style='dispaly: flex; flex-wrap: wrap; flex-direction: row'>
       <li>
         <img align='center' alt='javascript' src='https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000' width='80'/>
         <p>Javascript</p> 
