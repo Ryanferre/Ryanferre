@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 ##
 POSSUO DOMÍNIO EM:
 
-## Tecnologias
-
 <p>
   <img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" width="80" alt="JavaScript"/>
   <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" width="80" alt="CSS3"/>
