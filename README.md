@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ##
 POSSUO DOMÍNIO EM:
 
-<p align="center">
+<p>
   <img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" width="80" alt="JavaScript"/><br>JavaScript
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" width="80" alt="CSS3"/><br>CSS3
