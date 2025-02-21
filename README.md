@@ -19,7 +19,7 @@ POSSUO DOMÍNIO EM:
   <img src="https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000" width="80" alt="PHP"/>
   <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" width="80" alt="React"/>
   <img src="https://img.icons8.com/nolan/64/tailwind_css.png" width="80" alt="TailwindCSS"/>
-  <img src="https://github.com/Ryanferre/DogsImg/blob/main/typescript(1).png?raw=true" width="80" alt="TypeScript"/>
+  <img marginLeft='30' src="https://github.com/Ryanferre/DogsImg/blob/main/typescript(1).png?raw=true" width="80" alt="TypeScript"/>
   <img src="https://github.com/Ryanferre/DogsImg/blob/main/banco-de-dados-mysql(1).png?raw=true" width="80" alt="MySQL"/>
   <img src="https://img.icons8.com/nolan/64/ruby-programming-language.png" width="80" alt="Ruby"/>
 </p>
