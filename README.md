@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ##
 <div style="display: iline_block">
-POSSUO DOMÍNIO EM:
+POSSUO CONHECIMENTO OU DOMÍNIO EM:
 
 <img align='right' alt='connect' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xyM3V2NnI2dW1wbDByMWlramp1cWdkaG90c2Z0dDE2cnpyczA1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQDdDwdZpfYRn1MsJy/giphy.gif' width='200' height='200'/>
 
