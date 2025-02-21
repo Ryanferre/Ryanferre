@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 - Gosto de aprender de tudo um pouco. Acredito que conhecimento sempre é bom nao importa de onde venha
 
 ![Ryandsferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryandsferrer&show_icons=true&theme=tokyonight)
+
+<div style="display: iline_block">
 ##
 POSSUO DOMÍNIO EM:
 
