@@ -12,7 +12,7 @@ POSSUO DOMÍNIO EM:
 <div style='display:inline_block'>
    <br>
    
-  <div>
+  <div width="100">
     <img alt="javascript" src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" width="80"/>
     <p>Javascript</p> 
   </div>
