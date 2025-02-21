@@ -9,10 +9,7 @@ Here are some ideas to get you started:
 ![Ryandsferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryandsferrer&show_icons=true&theme=tokyonight)
 
 <div style="display: iline_block">
-##
 POSSUO DOMÍNIO EM:
-
-## Tecnologias
 
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" width="80" alt="JavaScript"/>
