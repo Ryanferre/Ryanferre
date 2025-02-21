@@ -29,6 +29,8 @@ POSSUO DOMÍNIO EM:
    <img align='center' alt='javascript' src='https://github.com/Ryanferre/DogsImg/blob/main/typescript(1).png?raw=true' width='80'/>
 
    <img align='center' alt='Mysql' src='https://github.com/Ryanferre/DogsImg/blob/main/banco-de-dados-mysql(1).png?raw=true' width='80'/>
+
+   <img align='center' alt='Ruby' src='https://img.icons8.com/nolan/64/ruby-programming-language.png' width='80'/>
 </div>
 
 ##
