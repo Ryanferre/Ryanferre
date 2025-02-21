@@ -12,8 +12,8 @@ POSSUO DOMÍNIO EM:
 <div style='display:inline_block'>
    <br>
 
-   <ul style='dispaly: flex; flex-wrap: wrap; flex-direction: row'>
-      <li>
+   <ul style='display: flex; flex-wrap: wrap; flex-direction: row'>
+      <li style='display: flex; justify-content: center; align-itens: center'>
         <img align='center' alt='javascript' src='https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000' width='80'/>
         <p>Javascript</p> 
       </li>
