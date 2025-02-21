@@ -13,27 +13,38 @@ Here are some ideas to get you started:
 POSSUO DOMÍNIO EM:
 ## Tecnologias
 
-<p>
-  <img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" width="80" alt="JavaScript"/><br>JavaScript
-  &nbsp;&nbsp;&nbsp;
-  <br>
-  <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" width="80" alt="CSS3"/><br>CSS3
-  &nbsp;&nbsp;&nbsp;
-  <br>
-  <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" width="80" alt="HTML5"/><br>HTML5
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000" width="80" alt="PHP"/><br>PHP
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" width="80" alt="React"/><br>React
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/nolan/64/tailwind_css.png" width="80" alt="TailwindCSS"/><br>TailwindCSS
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Ryanferre/DogsImg/blob/main/typescript(1).png?raw=true" width="80" alt="TypeScript"/><br>TypeScript
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Ryanferre/DogsImg/blob/main/banco-de-dados-mysql(1).png?raw=true" width="80" alt="MySQL"/><br>MySQL
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/nolan/64/ruby-programming-language.png" width="80" alt="Ruby"/><br>Ruby
+## Tecnologias
+
+<p align="center">
+  <span>
+    <img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" width="80" alt="JavaScript"/><br>JavaScript
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" width="80" alt="CSS3"/><br>CSS3
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" width="80" alt="HTML5"/><br>HTML5
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000" width="80" alt="PHP"/><br>PHP
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" width="80" alt="React"/><br>React
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://img.icons8.com/nolan/64/tailwind_css.png" width="80" alt="TailwindCSS"/><br>TailwindCSS
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://github.com/Ryanferre/DogsImg/blob/main/typescript(1).png?raw=true" width="80" alt="TypeScript"/><br>TypeScript
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://github.com/Ryanferre/DogsImg/blob/main/banco-de-dados-mysql(1).png?raw=true" width="80" alt="MySQL"/><br>MySQL
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://img.icons8.com/nolan/64/ruby-programming-language.png" width="80" alt="Ruby"/><br>Ruby
+  </span>
 </p>
+
 
 
    <img align='right' alt='connect' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xyM3V2NnI2dW1wbDByMWlramp1cWdkaG90c2Z0dDE2cnpyczA1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQDdDwdZpfYRn1MsJy/giphy.gif' width='200' height='200'/>
