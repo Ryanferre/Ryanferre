@@ -12,39 +12,39 @@ POSSUO DOMÍNIO EM:
 <div style='display:inline_block'>
    <br>
    
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 10px;">
+  <div>
     <img alt="javascript" src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" width="80"/>
     <p>Javascript</p> 
   </div>
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 10px;">
+  <div>
     <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" width="80"/>
     <p>Css3</p>
   </div>
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 10px;">
+  <div>
     <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" width="80"/>
     <p>Html5</p>
   </div>
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 10px;">
+  <div>
     <img src="https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000" width="80"/>
     <p>PHP</p>
   </div>
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 10px;">
+  <div>
     <img alt="React" src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" width="80"/>
     <p>React</p>
   </div>
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 10px;">
+  <div>
     <img alt="TailwindCss" src="https://img.icons8.com/nolan/64/tailwind_css.png" width="80"/>
     <p>TailwindCss</p>
   </div>
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 10px;">
+  <div>
     <img alt="Typescript" src="https://github.com/Ryanferre/DogsImg/blob/main/typescript(1).png?raw=true" width="80"/>
     <p>Typescript</p>
   </div>
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 10px;">
+  <div>
     <img alt="Mysql" src="https://github.com/Ryanferre/DogsImg/blob/main/banco-de-dados-mysql(1).png?raw=true" width="80"/>
     <p>MysqlBD</p>
   </div>
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 10px;">
+  <div>
     <img alt="Ruby" src="https://img.icons8.com/nolan/64/ruby-programming-language.png" width="80"/>
     <p>Ruby</p>
   </div>
