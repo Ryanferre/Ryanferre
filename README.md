@@ -19,14 +19,11 @@ POSSUO DOMÍNIO EM:
   <img src="https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000" width="80" alt="PHP"/>
   <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" width="80" alt="React"/>
   <img src="https://img.icons8.com/nolan/64/tailwind_css.png" width="80" alt="TailwindCSS"/>
-  <img marginLeft='30' src="https://github.com/Ryanferre/DogsImg/blob/main/typescript(1).png?raw=true" width="80" alt="TypeScript"/>
+  <img style="margin-left: 30px;" src="https://github.com/Ryanferre/DogsImg/blob/main/typescript(1).png?raw=true" width="80" alt="TypeScript"/>
   <img src="https://github.com/Ryanferre/DogsImg/blob/main/banco-de-dados-mysql(1).png?raw=true" width="80" alt="MySQL"/>
   <img src="https://img.icons8.com/nolan/64/ruby-programming-language.png" width="80" alt="Ruby"/>
 </p>
 <p>Javascript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Css3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Html5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TailwindCss &nbsp;&nbsp;&nbsp;Typescript &nbsp;&nbsp;&nbsp;&nbsp;Mysql &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ruby</p>
-
-
-
 
    <img align='right' alt='connect' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xyM3V2NnI2dW1wbDByMWlramp1cWdkaG90c2Z0dDE2cnpyczA1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQDdDwdZpfYRn1MsJy/giphy.gif' width='200' height='200'/>
 
