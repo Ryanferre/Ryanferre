@@ -14,6 +14,7 @@ POSSUO DOMÍNIO EM:
 
 <p>
   <img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" width="80" alt="JavaScript"/>
+  <p>Javascript</p>
   <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" width="80" alt="CSS3"/>
   <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" width="80" alt="HTML5"/>
   <img src="https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000" width="80" alt="PHP"/>
