@@ -23,7 +23,7 @@ POSSUO DOMÍNIO EM:
   <img src="https://github.com/Ryanferre/DogsImg/blob/main/banco-de-dados-mysql(1).png?raw=true" width="80" alt="MySQL"/>
   <img src="https://img.icons8.com/nolan/64/ruby-programming-language.png" width="80" alt="Ruby"/>
 </p>
-<p>Javascript     Css3</p>
+<p>Javascript &nbsp;&nbsp;&nbsp;Css3</p>
 
 
 
