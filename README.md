@@ -13,24 +13,33 @@ POSSUO DOMÍNIO EM:
    <br>
 
    <img align='center' alt='javascript' src='https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000' width='80'/>
+   <p>Javascript</p>
 
    <img align='center' src='https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000' width='80'/>
+   <p>Css3</p>
 
    <img align='center' src='https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000' width='80'/>
+   <p>Html5</p>
 
    <img align='center' src='https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000' width='80'/>
+   <p>PHP</p>
    
    <img align='right' alt='connect' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xyM3V2NnI2dW1wbDByMWlramp1cWdkaG90c2Z0dDE2cnpyczA1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQDdDwdZpfYRn1MsJy/giphy.gif' width='200' height='200'/>
 
    <img align='center' alt='javascript' src='https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000' width='80'/>
+   <p>React</p>
 
    <img align='center' alt='javascript' src='https://img.icons8.com/nolan/64/tailwind_css.png' width='80'/>
+   <p>TailwindCss</p>
 
    <img align='center' alt='javascript' src='https://github.com/Ryanferre/DogsImg/blob/main/typescript(1).png?raw=true' width='80'/>
+   <p>Typescript</p>
 
    <img align='center' alt='Mysql' src='https://github.com/Ryanferre/DogsImg/blob/main/banco-de-dados-mysql(1).png?raw=true' width='80'/>
+   <p>MysqlBD</p>
 
    <img align='center' alt='Ruby' src='https://img.icons8.com/nolan/64/ruby-programming-language.png' width='80'/>
+   <p>Ruby</p>
 </div>
 
 ##
