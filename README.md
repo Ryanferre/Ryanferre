@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 ![Ryandsferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryandsferrer&show_icons=true&theme=tokyonight)
 ##
 POSSUO DOMÍNIO EM:
-<div style='display:inline_block'><br>
+<div style='display:inline_block'>
+   <br>
 
    <img align='center' alt='javascript' src='https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000' width='80'/>
 
@@ -27,7 +28,7 @@ POSSUO DOMÍNIO EM:
 
    <img align='center' alt='javascript' src='https://github.com/Ryanferre/DogsImg/blob/main/typescript(1).png?raw=true' width='80'/>
 
-   <img align='center' alt='https://github.com/Ryanferre/DogsImg/blob/main/animal-face-drawings-20.png?raw=true' width='80'/>
+   <img align='center' alt='Mysql' src='https://github.com/Ryanferre/DogsImg/blob/main/banco-de-dados-mysql(1).png?raw=true' width='80'/>
 </div>
 
 ##
