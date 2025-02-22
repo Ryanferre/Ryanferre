@@ -31,7 +31,7 @@ POSSUO CONHECIMENTO OU DOMÍNIO EM:
 ##
 ESTOU APRENDENDO:
 <div style='display:inline_block'><br>
-
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/amazon-web-services.png" alt="amazon-web-services"/>
   
    
 </div>
