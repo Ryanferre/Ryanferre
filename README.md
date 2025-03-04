@@ -25,6 +25,7 @@ POSSUO CONHECIMENTO OU DOMÍNIO EM:
   <img style="margin-left: 100px;" src="https://github.com/Ryanferre/DogsImg/blob/main/typescript(1).png?raw=true" width="80" alt="TypeScript"/>
   <img src="https://github.com/Ryanferre/DogsImg/blob/main/banco-de-dados-mysql(1).png?raw=true" width="80" alt="MySQL"/>
   <img src="https://img.icons8.com/nolan/64/ruby-programming-language.png" width="80" alt="Ruby"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/amazon-web-services.png" alt="amazon-web-services"/>
 </p>
 
 </div>
@@ -32,7 +33,6 @@ POSSUO CONHECIMENTO OU DOMÍNIO EM:
 ##
 ESTOU APRENDENDO:
 <div style='display:inline_block'><br>
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/amazon-web-services.png" alt="amazon-web-services"/>
   
    
 </div>
