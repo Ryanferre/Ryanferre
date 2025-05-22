@@ -1,11 +1,11 @@
-## 🧑🏽‍💻 Ryan ferreira
+### 🧑🏽‍💻 Ryan ferreira
 
  **`Desenvolvedor front-end`**
 
  Me chamo Ryan ferreira, tenho 23 anos e sou natural do Ceará. A tecnologia sempre fez parte da minha vida, e sou fascinado pela forma como ela facilita o nosso dia a dia. Iniciei meus estudos em programação no início de 2023 e, em novembro do mesmo ano, comecei a faculdade em Análise e Desenvolvimento de Sistemas, onde sigo atualmente. Em outubro de 2024, iniciei meu estágio no PB compass.uou, no qual a minha função era aprender e praticar tecnologias voltadas para o fron-end como Typescript, rect, tailwind, css, javascript e entre outras. Atravez do estagio, consegui a minha certificação aws(CLF-C02).
 
 ##
-Here are some ideas to get you started: <br/>
+### Here are some ideas to get you started: <br/>
 🌱 Atualmente estou no último semestre do curso de Análise e Desenvolvimento de Sistemas.
 
 👯 Estou sempre em busca de projetos que desafiem meus conhecimentos e me tirem da zona de conforto.
