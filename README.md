@@ -18,6 +18,7 @@
 
 📚 Estou sempre em busca de novos aprendizados, explorando diferentes formas de adquirir conhecimento.
 
+### 📊 Estatística
 ![Ryandsferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryanferre&show_icons=true&theme=tokyonight)
 
 ##
