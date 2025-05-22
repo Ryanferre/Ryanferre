@@ -2,12 +2,17 @@
 
 
 Here are some ideas to get you started:
-- 🌱 Estou cursando no ultimo semestre de análise e desenvolvimento de sistemas
-- 👯 Sempre busco projetos que possam desafiar o meu conhecimento
-- Gosto de aprender de tudo um pouco. Acredito que conhecimento sempre é bom nao importa de onde venha
-- Acredito que uma comunicacao constante em equipe faz a diferenca e evita muitos problemas
-- Nao desanimo com facilidade; pois a chave para entregar um projeto eficaz e funcional e forma como a equipe constroi ele
-- Estou sempre buscando novos conhecimentos de diversas formas
+🌱 Atualmente estou no último semestre do curso de Análise e Desenvolvimento de Sistemas.
+
+👯 Estou sempre em busca de projetos que desafiem meus conhecimentos e me tirem da zona de conforto.
+
+🎯 Gosto de aprender um pouco de tudo — acredito que todo conhecimento é válido, independente de onde venha.
+
+🤝 Acredito que uma comunicação constante e clara dentro da equipe faz toda a diferença e evita muitos problemas.
+
+💪 Não desanimo com facilidade. Para mim, a chave para entregar um projeto eficaz e funcional está na forma como a equipe colabora e constrói juntas as soluções.
+
+📚 Estou sempre em busca de novos aprendizados, explorando diferentes formas de adquirir conhecimento.
 
 ![Ryandsferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryandsferrer&show_icons=true&theme=tokyonight)
 
