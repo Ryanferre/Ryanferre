@@ -1,5 +1,8 @@
-## olá! eu sou ryan ferreira😁
+## Ryan ferreira
 
+ *Desenvolvedor front-end*
+
+ Sou Ryan, estudante de Análise e Desenvolvimento de Sistemas, com experiência em desenvolvimento web desde antes da graduação. Tenho facilidade com organização, o que contribui para melhores resultados em projetos e equipes. Gosto de explorar diferentes tecnologias para criar soluções criativas e eficientes. Atuei como estagiário na Compass.ou, desenvolvendo projetos do zero com serviços AWS, sob mentoria de profissionais da Vivo, PagBank e especialistas em nuvem. Recentemente, obtive minha primeira certificação AWS, reforçando meu foco em aprendizado contínuo e excelência técnica.
 
 Here are some ideas to get you started:
 🌱 Atualmente estou no último semestre do curso de Análise e Desenvolvimento de Sistemas.
