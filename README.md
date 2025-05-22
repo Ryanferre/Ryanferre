@@ -29,7 +29,7 @@ Linguagens e tecnologias:
 
 <p>
   <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript-logo.png" alt="javascript-logo"/>
+  <img width="64" height="64" src="[https://img.icons8.com/nolan/64/javascript-logo.png](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)" alt="javascript-logo"/>
   <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" width="80" alt="CSS3"/>
   <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" width="80" alt="HTML5"/>
   <img src="https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000" width="80" alt="PHP"/>
