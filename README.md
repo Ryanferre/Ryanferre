@@ -28,7 +28,7 @@ Linguagens e tecnologias:
 <img align='right' alt='connect' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xyM3V2NnI2dW1wbDByMWlramp1cWdkaG90c2Z0dDE2cnpyczA1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQDdDwdZpfYRn1MsJy/giphy.gif' width='200' height='200'/>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript-logo.png" alt="javascript-logo"/>
   <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" width="80" alt="CSS3"/>
   <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" width="80" alt="HTML5"/>
