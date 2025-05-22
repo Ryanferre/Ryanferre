@@ -30,8 +30,7 @@ Linguagens e tecnologias:
 <p>
   <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript-logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80" alt="CSS3"/>
-  <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" width="80" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="64" height="64" alt="CSS3"/>
   <img src="https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000" width="80" alt="PHP"/>
   <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" width="80" alt="React"/>
   <img src="https://img.icons8.com/nolan/64/tailwind_css.png" width="80" alt="TailwindCSS"/>
