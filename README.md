@@ -3,8 +3,11 @@
 
 Here are some ideas to get you started:
 - 🌱 Estou cursando no ultimo semestre de análise e desenvolvimento de sistemas
-- 👯 Sempre busco projetos que possam desafiar o meu conhecimento na área de TI
+- 👯 Sempre busco projetos que possam desafiar o meu conhecimento
 - Gosto de aprender de tudo um pouco. Acredito que conhecimento sempre é bom nao importa de onde venha
+- Acredito que uma comunicacao constante em equipe faz a diferenca e evita muitos problemas
+- Nao desanimo com facilidade; pois a chave para entregar um projeto eficaz e funcional e forma como a equipe constroi ele
+- Estou sempre buscando novos conhecimentos de diversas formas
 
 ![Ryandsferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryandsferrer&show_icons=true&theme=tokyonight)
 
