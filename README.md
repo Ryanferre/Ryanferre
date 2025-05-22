@@ -8,8 +8,6 @@
 <div style="display: iline_block">
 Linguagens e tecnologias:
 
-<img align='right' alt='connect' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xyM3V2NnI2dW1wbDByMWlramp1cWdkaG90c2Z0dDE2cnpyczA1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQDdDwdZpfYRn1MsJy/giphy.gif' width='200' height='200'/>
-
 <p>
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript-logo"/>
@@ -19,6 +17,7 @@ Linguagens e tecnologias:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="50" height="50" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="50" height="50" alt="TailwindCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50" alt="MySQL"/>
+  <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img  width="50" height="50" style="margin-left: -1000px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amazon-web-services"/>
 </p>
 
