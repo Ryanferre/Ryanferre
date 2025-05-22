@@ -2,7 +2,7 @@
 
  *Desenvolvedor front-end*
 
- Sou Ryan, estudante de Análise e Desenvolvimento de Sistemas, com experiência em desenvolvimento web desde antes da graduação. Tenho facilidade com organização, o que contribui para melhores resultados em projetos e equipes. Gosto de explorar diferentes tecnologias para criar soluções criativas e eficientes. Atuei como estagiário na Compass.ou, desenvolvendo projetos do zero com serviços AWS, sob mentoria de profissionais da Vivo, PagBank e especialistas em nuvem. Recentemente, obtive minha primeira certificação AWS, reforçando meu foco em aprendizado contínuo e excelência técnica.
+ Olá, me chamo Ryan e sou do Ceará. A tecnologia sempre fez parte da minha vida, e sou fascinado pela forma como ela facilita o nosso dia a dia. Iniciei meus estudos em programação no início de 2023 e, em novembro do mesmo ano, comecei a faculdade em Análise e Desenvolvimento de Sistemas, onde sigo atualmente. Em outubro de 2024, iniciei meu estágio no PB compass.uou, no qual a minha função era aprender e praticar tecnologias voltadas para o fron-end como Typescript, rect, tailwind, css, javascript e entre outras. Atravez do estagio, consegui a minha certificação aws(CLF-C02).
 
 Here are some ideas to get you started:
 🌱 Atualmente estou no último semestre do curso de Análise e Desenvolvimento de Sistemas.
