@@ -41,8 +41,3 @@ Linguagens e tecnologias:
 </div>
 
 ##
-ESTOU APRENDENDO:
-<div style='display:inline_block'><br>
-  
-   
-</div>
