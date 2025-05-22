@@ -18,7 +18,7 @@ Here are some ideas to get you started: <br/>
 
 📚 Estou sempre em busca de novos aprendizados, explorando diferentes formas de adquirir conhecimento.
 
-![Ryandsferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryandsferrer&show_icons=true&theme=tokyonight)
+![Ryandsferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryanferre&show_icons=true&theme=tokyonight)
 
 ##
 <div style="display: iline_block">
