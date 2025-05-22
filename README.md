@@ -31,7 +31,7 @@ Linguagens e tecnologias:
   <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript-logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="64" height="64" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="80" alt="PHP"/>
-  <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" width="80" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="80" alt="React"/>
   <img src="https://img.icons8.com/nolan/64/tailwind_css.png" width="80" alt="TailwindCSS"/>
   <img style="margin-left: 100px;" src="https://github.com/Ryanferre/DogsImg/blob/main/typescript(1).png?raw=true" width="80" alt="TypeScript"/>
   <img src="https://github.com/Ryanferre/DogsImg/blob/main/banco-de-dados-mysql(1).png?raw=true" width="80" alt="MySQL"/>
