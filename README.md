@@ -6,7 +6,7 @@
  
 ##
 <div style="display: iline_block">
-Linguagens e tecnologias:
+## 🧑🏽‍💻 Linguagens e tecnologias:
 
 <p>
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
