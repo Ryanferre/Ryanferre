@@ -21,8 +21,3 @@
 </p>
 
 </div>
-
-### 📊 Estatística
-![Ryandsferrer GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryanferre&show_icons=true&theme=tokyonight)
-
-##
