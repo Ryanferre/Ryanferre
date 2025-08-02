@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="50" height="50" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="50" height="50" alt="React"/>
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*LvA59wJi3O9jTMQQsw_cRA.png"  width="50" height="50" alt="Next"/>
+  <img src="https://www.ramx.in/blog/nextjs.png"  width="50" height="50" alt="Next"/>
   <img width="80" height="80" src="https://nodejs.org/static/logos/nodejsStackedLight.svg" alt="nodeJs-logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="50" height="50" alt="TailwindCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50" alt="MySQL"/>
