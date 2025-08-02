@@ -16,6 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="50" height="50" alt="React"/>
   <img src="https://www.ramx.in/blog/nextjs.png"  width="100" height="100" alt="Next"/>
   <img width="80" height="80" src="https://nodejs.org/static/logos/nodejsStackedLight.svg" alt="nodeJs-logo"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"  width="50" height="50" alt="PrismaORM"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="50" height="50" alt="TailwindCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50" alt="MySQL"/>
   <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
