@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="50" height="50" alt="TailwindCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50" alt="MySQL"/>
   <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img  width="50" height="50" src="https://i.postimg.cc/t4zkL1Y0/docker-removebg-preview.png" />
+  <img  width="70" height="70" src="https://i.postimg.cc/t4zkL1Y0/docker-removebg-preview.png" />
   <img  width="50" height="50" style="margin-left: -1000px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amazon-web-services"/>
 </p>
 
